@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    text-align: center;
+    font-size: 60px;
+}
+#h1 {
+    color:aqua; 
+}
+.acheivment_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px
+}
+.acheivement_head img {
+    float: right;
+}
+.img {
+    height: 100;
+}
